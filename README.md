@@ -52,10 +52,10 @@ Project repository for the J.P. Morgan Advanced Software Engineering virtual pro
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishrashaksham&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishrashaksham&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
 </p>
 
 <h4 align="center">Languages I Code In:</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrashaksham&layout=donut&theme=tokyonight" alt="Top Languages Donut Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrashaksham&layout=donut&theme=tokyonight&v=1" alt="Top Languages Donut Chart" />
 </p>
