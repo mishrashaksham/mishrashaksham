@@ -48,14 +48,17 @@ A premium, multi-page interactive website concept for VIT-AP University.
 Project repository for the J.P. Morgan Advanced Software Engineering virtual program, demonstrating core competency in **Java**.
 
 ---
+### 📊 GitHub Analytics & Code Stack
 
-### 📊 GitHub Analytics
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mishrashaksham&theme=tokyonight&hide_border=true)](https://github.com/mishrashaksham)
+
+<br/>
+
+<h4 align="center">Top Languages & Core Arsenal</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishrashaksham&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" /><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><img src="https://img.shields.io/badge/HTML_/_CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
 </p>
 
-<h4 align="center">Languages I Code In:</h4>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrashaksham&layout=donut&theme=tokyonight&v=1" alt="Top Languages Donut Chart" />
-</p>
+</div>
