@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaksham-kumar-mishra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/codeCracker070106" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ---
@@ -51,10 +52,6 @@ Project repository for the J.P. Morgan Advanced Software Engineering virtual pro
 ### 📊 GitHub Analytics & Code Stack
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mishrashaksham&theme=tokyonight&hide_border=true)](https://github.com/mishrashaksham)
-
-<br/>
 
 <h4 align="center">Top Languages & Core Arsenal</h4>
 <p align="center">
