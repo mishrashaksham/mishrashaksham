@@ -2,8 +2,8 @@
 <h3 align="center">CSBS Undergrad @ VIT-AP | Software Engineering & DSA</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaksham-kumar-mishra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/codeCracker070106" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/shaksham-kumar-mishra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" /></a>
+  <a href="https://leetcode.com/u/codeCracker070106" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Logo" /></a>
 </p>
 
 ---
